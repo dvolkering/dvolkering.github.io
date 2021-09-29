@@ -6,7 +6,10 @@
 ### Traveling
 
 #### Car rental
-- Northbound.is - [Website](https://www.northbound.is/)
+1. Lava Car Rental - [Website](https://www.lavacarrental.is/)
+2. Northbound.is - [Website](https://www.northbound.is/)
+3. Gocampers - [Website](https://www.gocampers.is/)
+4. Lotus car rental - [Website](https://www.lotuscarrental.is/)
 
 #### Driving tips
 - Where and how to rent a car in Iceland - [Website](https://goingawesomeplaces.com/where-and-how-to-rent-a-car-in-iceland/)
