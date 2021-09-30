@@ -2,6 +2,7 @@
 
 ### Useful information/websites 
 - Reddit - [Website](https://www.reddit.com/r/VisitingIceland)
+- Iceland Travel Guide - [Youtube](https://www.youtube.com/watch?v=XPGEGEBb6PE)
 
 ### Traveling
 
@@ -21,14 +22,42 @@
 #### Nature
 - Orca watching
 - Glaciers
+  - Svínafellsjökull
+  - Fjallsárlón
 - Geysers
 - Volcanoes
+- Ice caves
 - Waterfalls
-  - Gullfoss
+  - Gullfoss (Golden circle)
+  - Seljalandsfoss
+    - Gljufrabui
+  - Skógafoss
+  - Dettifoss
+  - Godafoss
+- Hot springs
+  - Hrunalaug (Golden circle) - [Location](https://g.page/Hrunlaug?share)
+  - Grjótagjá Cave - [Location](https://goo.gl/maps/ooU8vbShf1qL5hdu7)
+  - Hörgshlíðarlaug (Winter??) - [Location](https://goo.gl/maps/dChcBEtWAjRvwnH9A)
+- Canyons
+  - Fjadrárgljúfur
+- Miscellaneous
+  - Reynisfjara (Black sand beach)
+  - Dyrhólaey
+  - Diamond beach (Black sand + ice parts) (Winter??)
+
+
+
+- Kerid Crater (Winter??) (Golden circle)
+- Krafla Viti Crater (Winter??)
+- Hverfjall Crater
 
 ##### National parks
+- Thingvellir National Park (Tectonic plates) (Golden circle)
+- 
+
 ##### Hikes
 #### Famous tourist attractions
+- Plane wreck 
 #### Tours
 
 ### Itineraries
