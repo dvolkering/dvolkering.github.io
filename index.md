@@ -15,6 +15,7 @@
 #### Driving tips
 - Where and how to rent a car in Iceland - [Website](https://goingawesomeplaces.com/where-and-how-to-rent-a-car-in-iceland/)
 - F Roads in Iceland - [Website & Maps](https://campeasy.com/information-center/f-roads-in-iceland/)
+- 7 Things You Need to Know Before Driving in Iceland in Winter - [Website](https://www.lavacarrental.is/information-iceland/7-things-you-need-to-know-before-driving-in-iceland-in-winter)
 
 ### Things to do
 - Custom Google My Maps with things to do - [Map](https://www.google.com/maps/d/u/0/edit?mid=1bQoeinmarH7zhJ_HSeWDWMlERrERgWR_)
@@ -61,6 +62,7 @@
 #### Tours
 
 ### Itineraries
+- Best Iceland 10-Day Self-Drive Itinerary (Summer + Winter) - [Website](https://www.lavacarrental.is/information-iceland/best-iceland-10-day-self-drive-itinerary#:~:text=Best%20Iceland%20Itinerary%20%E2%80%94%2010%20Days%2C%20Winter%2C%20Self%20Drive%2C%20Late%20September%E2%80%93Early%20May)
 
 ### Accommodations
 - Complete guide to campsites in Iceland - [Website](https://www.gocampers.is/useful-info/campsites-in-iceland)
