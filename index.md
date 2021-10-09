@@ -46,8 +46,6 @@
   - Dyrhólaey
   - Diamond beach (Black sand + ice parts) (Winter??)
 
-
-
 - Kerid Crater (Winter??) (Golden circle)
 - Krafla Viti Crater (Winter??)
 - Hverfjall Crater
@@ -58,7 +56,8 @@
 
 ##### Hikes
 #### Famous tourist attractions
-- Plane wreck 
+- Plane wreck
+
 #### Tours
 
 ### Itineraries
@@ -67,13 +66,13 @@
 ### Accommodations
 - Complete guide to campsites in Iceland - [Website](https://www.gocampers.is/useful-info/campsites-in-iceland)
 - All year campsites - [Map](https://www.google.com/maps/d/u/0/viewer?mid=1ZJ8-PyMWTPgzO2UWWEqpsb7sIGSVSt0K&shorturl=1)
+- Free/cheap campsites in Iceland - [Website](https://happycampers.is/2019/10/02/best-free-and-cheap-campsites-in-iceland/)
+- Free camping near keflavik - [Map](https://goo.gl/maps/MEstkNKQZZxkSfry9)
 
 ### Weather
 - Icelandic Met Office - [Weather Alerts](https://en.vedur.is/alerts)
 - Icelandic Met Office - [Aurora forecast](https://en.vedur.is/weather/forecasts/aurora/)
 - Vegasjá - Map with road conditions and webcams - [Map](https://vegasja.vegagerdin.is/eng/)
-
-
 
 #### Markdown examples:
 
