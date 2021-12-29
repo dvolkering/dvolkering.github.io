@@ -22,6 +22,7 @@
 
 #### Nature
 - Orca watching
+  - Laki tours - [Website](https://lakitours.com/our-tours/whale-watching-grundarfjordur/)
 - Glaciers
   - Svínafellsjökull
   - Fjallsárlón
