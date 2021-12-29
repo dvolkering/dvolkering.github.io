@@ -70,6 +70,9 @@
 - Free/cheap campsites in Iceland - [Website](https://happycampers.is/2019/10/02/best-free-and-cheap-campsites-in-iceland/)
 - Free camping near keflavik - [Map](https://goo.gl/maps/MEstkNKQZZxkSfry9)
 
+### Supermarkets
+- Bonus
+
 ### Weather
 - Icelandic Met Office - [Weather Alerts](https://en.vedur.is/alerts)
 - Icelandic Met Office - [Aurora forecast](https://en.vedur.is/weather/forecasts/aurora/)
