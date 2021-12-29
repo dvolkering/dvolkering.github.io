@@ -71,7 +71,9 @@
 - Free camping near keflavik - [Map](https://goo.gl/maps/MEstkNKQZZxkSfry9)
 
 ### Supermarkets
-- Bonus
+- Bonus (goedkoop)
+- Netto
+- Kronan (luxe)
 
 ### Weather
 - Icelandic Met Office - [Weather Alerts](https://en.vedur.is/alerts)
