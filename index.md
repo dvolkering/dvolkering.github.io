@@ -3,6 +3,7 @@
 ### Useful information/websites 
 - Reddit - [Website](https://www.reddit.com/r/VisitingIceland)
 - Iceland Travel Guide - [Youtube](https://www.youtube.com/watch?v=XPGEGEBb6PE)
+- Winter Camping (https://happycampers.is/winter-camping-in-iceland1/)
 
 ### Traveling
 
