@@ -75,10 +75,13 @@
 - Netto
 - Kronan (luxe)
 
-### Weather
+### Weather and driving
 - Icelandic Met Office - [Weather Alerts](https://en.vedur.is/alerts)
 - Icelandic Met Office - [Aurora forecast](https://en.vedur.is/weather/forecasts/aurora/)
 - Vegasjá - Map with road conditions and webcams - [Map](https://vegasja.vegagerdin.is/eng/)
+- Safe Travel - driving conditions (https://safetravel.is/conditions)
+- Road IS conditions - (http://www.road.is/travel-info/road-conditions-and-weather/)
+- Tanken (https://gasvaktin.is/)
 
 #### Markdown examples:
 
